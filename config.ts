@@ -30,7 +30,7 @@ export const MENU = [
     description: 'Con aguacate, ají, cebollino y pepino en vinagreta. (Fresco y saludable.)',
     price: 1750,
     category: 'Sushi',
-    img: 'midori-roll.png',
+    img: 'midori-roll.jpg',
   },
   {
     id: 'mist-blue',
@@ -46,7 +46,7 @@ export const MENU = [
     description: '(Atún rojo de cola azul) Salteado en fajitas con salsa de soja y especias especiales japonesas.',
     price: 2100,
     category: 'Sushi',
-    img: 'samurai-roll.png',
+    img: 'samurai-roll.jpg',
   },
   {
     id: 'perla-roja',
@@ -80,7 +80,7 @@ export const MENU = [
     description: 'Conos de alga rellenos de camarones frescos, directo a tu mesa. Delicia Japonesa.',
     price: 1950,
     category: 'Otros Platos',
-    img: 'temaki-camarones.png',
+    img: 'temaki.jpg',
   },
   {
     id: 'onigiri-japones',
