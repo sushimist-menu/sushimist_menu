@@ -1,15 +1,14 @@
 export const SITE_CONFIG = {
   name: 'SUSHI MIST',
-  description: '“Más que sushii, una experiencia...”',
-  whatsappNumber: '56483359', // Format: Country code + number without + or 00
+  description: '“Más que sushi, una experiencia.”',
+  whatsappNumber: '5352473962',
   currency: '$',
   deliveryArea: 'Envíos a domicilio en toda la ciudad.',
   openingHours: {
-    start: 12, // 12 PM
-    end: 22,   // 10 PM
-    display: 'Lunes - Domingo: 12:00 PM - 10:00 PM',
+    start: 11,
+    end: 22,
+    display: 'Lunes - Domingo: 11:00 AM - 10:00 PM',
   },
-  // SEO & Open Graph
   siteUrl: 'https://sushimist.com', // IMPORTANT: Change this to your live site URL
   defaultMetaDescription: 'Más que sushi, una experiencia. Los mejores rolls y platos orientales.',
   defaultOgImage: '/og-image.png', // Path to a default social sharing image
