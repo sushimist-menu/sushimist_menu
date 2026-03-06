@@ -10,7 +10,8 @@ jobs:
     steps:
       - name: Enviar señal al repo privado
         run: |
-          curl -X POST -u "${{ secrets.PRIV_TOKEN }}" \
+          curl -X POST \
+          -H "Authorization: token ${{ secrets.MY_TOKEN }}" \
           -H "Accept: application/vnd.github.v3+json" \
           https://api.github.com/repos/diegoaep07/sushimist-web/dispatches \
           -d '{"event_type": "update_from_client"}'
