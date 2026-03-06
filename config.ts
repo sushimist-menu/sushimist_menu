@@ -1,6 +1,6 @@
 export const SITE_CONFIG = {
   name: 'SUSHI MIST',
-  description: '“Más que sushi, una experiencia...”',
+  description: '“Más que sushii, una experiencia...”',
   whatsappNumber: '56483359', // Format: Country code + number without + or 00
   currency: '$',
   deliveryArea: 'Envíos a domicilio en toda la ciudad.',
