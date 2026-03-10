@@ -11,7 +11,7 @@ export const SITE_CONFIG = {
   },
   siteUrl: 'https://sushimist.com', // IMPORTANT: Change this to your live site URL
   defaultMetaDescription: 'Más que sushi, una experiencia. Los mejores rolls y platos orientales.',
-  defaultOgImage: '/og-image.png', // Path to a default social sharing image
+  defaultOgImage: '../public/favicon.png', // Path to a default social sharing image
 };
 
 export const MENU = [
@@ -23,6 +23,7 @@ export const MENU = [
     price: 1600,
     category: 'Sushi',
     img: 'kumo-roll.png',
+    availability: true,
   },
   {
     id: 'midori-roll',
@@ -31,6 +32,7 @@ export const MENU = [
     price: 1750,
     category: 'Sushi',
     img: 'midori-roll.jpg',
+    availability: true,
   },
   {
     id: 'mist-blue',
@@ -39,6 +41,7 @@ export const MENU = [
     price: 1900,
     category: 'Sushi',
     img: 'mist-blue.png',
+    availability: true,
   },
   {
     id: 'samurai-roll',
@@ -47,6 +50,7 @@ export const MENU = [
     price: 2100,
     category: 'Sushi',
     img: 'samurai-roll.jpg',
+    availability: true,
   },
   {
     id: 'perla-roja',
@@ -55,6 +59,7 @@ export const MENU = [
     price: 1850,
     category: 'Sushi',
     img: 'perla-roja.png',
+    availability: true,
   },
   {
     id: 'sakura-beef-roll',
@@ -63,6 +68,7 @@ export const MENU = [
     price: 1900,
     category: 'Sushi',
     img: 'sakura-beef-roll.png',
+    availability: true,
   },
   
   // OTROS PLATOS
@@ -73,6 +79,7 @@ export const MENU = [
     price: 1700,
     category: 'Otros Platos',
     img: 'bushi-noodles.png',
+    availability: true,
   },
   {
     id: 'temaki-camarones',
@@ -81,6 +88,7 @@ export const MENU = [
     price: 1950,
     category: 'Otros Platos',
     img: 'temaki.jpg',
+    availability: true,
   },
   {
     id: 'onigiri-japones',
@@ -89,6 +97,7 @@ export const MENU = [
     price: 1900,
     category: 'Otros Platos',
     img: 'onigiri-japones.png',
+    availability: true,
   },
   {
     id: 'ebi-camarones',
@@ -97,6 +106,7 @@ export const MENU = [
     price: 1950,
     category: 'Otros Platos',
     img: 'ebi-camarones.png',
+    availability: true,
   },
 
   // BEBIDAS
@@ -107,6 +117,7 @@ export const MENU = [
     price: 0,
     category: 'Bebidas',
     img: 'refrescos.png',
+    availability: true,
   },
   {
     id: 'cerveza-fria',
@@ -115,6 +126,7 @@ export const MENU = [
     price: 0,
     category: 'Bebidas',
     img: 'cerveza.png',
+    availability: true,
   },
 
   // SALSAS
@@ -125,5 +137,6 @@ export const MENU = [
     price: 0,
     category: 'Salsas',
     img: 'salsas.png',
+    availability: true,
   },
 ];
