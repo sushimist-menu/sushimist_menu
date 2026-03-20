@@ -143,7 +143,7 @@ export const MENU = [
     description: 'Con aguacate, ají, cebollino y pepino en vinagreta. (Fresco y saludable.)',
     price: 1850,
     category: 'Sushi',
-    img: 'midori-roll.jpg',
+    img: '9b576480-20d3-4f33-96ce-c685fc3c2958.jpeg',
     availability: true,
   },
   {
@@ -179,7 +179,7 @@ export const MENU = [
     description: '(SUSHI de Carne) Carne jugosa con aguacate fresco, envuelto en alga nori y arroz japonés.',
     price: 2200,
     category: 'Sushi',
-    img: 'sakura-beef-roll.png',
+    img: '6811a695-d520-49df-a17b-59110aaab10d.jpeg',
     availability: true,
   },
   
