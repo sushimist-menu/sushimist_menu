@@ -6,7 +6,7 @@ export const SITE_CONFIG = {
   deliveryArea: 'Envíos a domicilio en toda la ciudad.',
   openingHours: {
     start: 11,
-    end: 8,
+    end: 20,
     display: 'Lunes - Domingo: 11:00 AM - 8:00 PM',
   },
   siteUrl: 'https://sushimist.com', // IMPORTANT: Change this to your live site URL
