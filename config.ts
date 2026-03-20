@@ -31,7 +31,7 @@ export const MENU = [
   description: 'Roll relleno de surimi suave y jugoso, combinado con un toque de vegetales frescos. Por fuera, arroz perfectamente sazonado cubierto con delicadas láminas de surimi y ajonjolí tostado, creando una mezcla irresistible de texturas y sabor',
   price: 2500,
   category: 'Sushi',
-  img: 'kumo-roll.png',
+  img: 'IMG_9542.jpeg',
   availability: true,
 },
 {
@@ -40,7 +40,7 @@ export const MENU = [
   description: 'Empanadas de curry y carne prensada acompañadas de arroz, vegetales marinados y alga kombu',
   price: 1700,
   category: 'Bowl',
-  img: 'kumo-roll.png',
+  img: 'IMG_9543.jpeg',
   availability: true,
 },
 {
@@ -49,7 +49,7 @@ export const MENU = [
   description: 'Arroz salteado con vegetales, salsa de soja, condimentos japoneses, aceite de sésamo, tortilla, wakame y carne',
   price: 2450,
   category: 'Calientes',
-  img: 'kumo-roll.png',
+  img: 'IMG_9548.jpeg',
   availability: true,
 },
 {
@@ -58,7 +58,7 @@ export const MENU = [
   description: 'Base de arroz con relleno de surimi en cubos y vegetales salteados',
   price: 1950,
   category: 'Sushi',
-  img: 'kumo-roll.png',
+  img: 'IMG_9549.jpeg',
   availability: true,
 },
 {
@@ -67,7 +67,7 @@ export const MENU = [
   description: 'Sushi relleno de surimi con vegetales salteados',
   price: 2000,
   category: 'Sushi',
-  img: 'kumo-roll.png',
+  img: 'IMG_9530.jpeg',
   availability: true,
 },
 {
@@ -76,7 +76,7 @@ export const MENU = [
   description: 'Fideos Wai Wai en caldo de wakame con brotes de soja, soja tradicional, cebolleta, carne agridulce mechada y huevo hervido',
   price: 2300,
   category: 'Ramen',
-  img: 'kumo-roll.png',
+  img: 'IMG_9546.jpeg',
   availability: true,
 },
 {
@@ -85,7 +85,7 @@ export const MENU = [
   description: 'Fideos Wai Wai en caldo de wakame con brotes de soja, soja tradicional, cebolleta, surimi estofado y huevo hervido',
   price: 2200,
   category: 'Ramen',
-  img: 'kumo-roll.png',
+  img: 'IMG_9547.jpeg',
   availability: true,
 },
 {
@@ -105,7 +105,7 @@ export const MENU = [
   description: 'Delicado tartar de surimi fresco con vegetales finamente cortados, salteados en aceite de oliva, con un toque cítrico y especias que realzan su sabor',
   price: 1200,
   category: 'Entrantes',
-  img: 'kumo-roll.png',
+  img: 'IMG_9556.jpeg',
   availability: true,
 },
 {
@@ -114,7 +114,7 @@ export const MENU = [
   description: 'Empanadas crujientes rellenas de curry y carne prensada con masa extra fina',
   price: 950,
   category: 'Entrantes',
-  img: 'kumo-roll.png',
+  img: 'ImG_9555.jpeg',
   availability: true,
 },
 
@@ -125,7 +125,7 @@ export const MENU = [
   description: 'Suave flan casero bañado en caramelo dulce',
   price: 400,
   category: 'Postres',
-  img: 'kumo-roll.png',
+  img: 'IMG_9526.jpeg',
   availability: true,
 },
   {
@@ -134,7 +134,7 @@ export const MENU = [
     description: 'Relleno de queso, mayonesa y cebolla (opción caramelizada).',
     price: 1700,
     category: 'Sushi',
-    img: 'kumo-roll.png',
+    img: 'IMG_9544.jpeg',
     availability: true,
   },
   {
@@ -190,7 +190,7 @@ export const MENU = [
     description: '(Fideos verdes de té MATCHA) con pasta de queso, coronados con cebolla y ají caramelizado.',
     price: 1850,
     category: 'Otros Platos',
-    img: 'bushi-noodles.png',
+    img: 'IMG_9553.jpeg',
     availability: true,
   },
   {
@@ -208,7 +208,7 @@ export const MENU = [
     description: 'Deliciosos triángulos de arroz rellenos de carne mechada, listos para llevarte a Japón en cada mordida. Incluye 5 unidades.',
     price: 2000,
     category: 'Otros Platos',
-    img: 'onigiri-japones.png',
+    img: 'IMG_9525.jpeg',
     availability: true,
   },
   {
