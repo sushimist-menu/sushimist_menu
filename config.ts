@@ -114,7 +114,7 @@ export const MENU = [
   description: 'Empanadas crujientes rellenas de curry y carne prensada con masa extra fina',
   price: 950,
   category: 'Entrantes',
-  img: 'ImG_9555.jpeg',
+  img: 'IMG_9555.jpeg',
   availability: true,
 },
 
