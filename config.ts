@@ -228,7 +228,7 @@ export const MENU = [
     description: 'Refrescos de diferente sabor.',
     price: 450,
     category: 'Bebidas',
-    img: 'IMG_9564.jpeg',
+    img: 'IMG_9577.jpeg',
     availability: true,
   },
   {
@@ -248,7 +248,7 @@ export const MENU = [
     description: 'Wasabi, Soja tradicional, Spaicy Sweet Soy, Hoisin Sauce, Soja Agridulce, Soja oscura, paquetes de soja sauce',
     price: 0,
     category: 'Salsas',
-    img: 'IMG_9577.jpeg',
+    img: 'IMG_9564.jpeg',
     availability: true,
   },
 ];
