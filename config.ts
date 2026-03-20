@@ -94,7 +94,7 @@ export const MENU = [
   description: 'Base de arroz con láminas de surimi a la plancha y salsa especial de cebolla con miel',
   price: 1950,
   category: 'Sushi',
-  img: 'kumo-roll.png',
+  img: 'IMG_9561.jpeg',
   availability: true,
 },
 
