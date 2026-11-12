@@ -3,7 +3,7 @@ on:
   push:
     paths:
       - 'config.ts'
-      - 'menu_data/'
+      - 'menu_data/*'
 
 jobs:
   ping:
