@@ -2,7 +2,8 @@ name: Notificar cambio de menú
 on:
   push:
     paths:
-      - 'config.ts' # Solo si cambia el menú
+      - 'config.ts'
+      - 'menu_data/'
 
 jobs:
   ping:
